@@ -1,0 +1,2 @@
+# VendorClientSimulation
+An option assignment for CS3420 at WPU. Made in November of 2019. This code uses queues and arrays to simulate a transaction. The amount of clients, time of arrival, and length of time of attendance can be inputted from a text file. The text file format is provided. The general pattern is (client #) (time of arrival (as integers)) (attendance time). The simulation run time and the amount of vendors can be changed programmatically by changing the variable values.
